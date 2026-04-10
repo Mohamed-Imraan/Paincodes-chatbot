@@ -7,7 +7,7 @@
 </p>
 
 ---
-#### 🌐Live Demo : https://paincodes-chatbot.streamlit.app/
+#### 🌐Live Demo : https://paincodes-assistant.streamlit.app/
 
 <a href='https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_paincodes-chatbot-ai-ugcPost-7445794077645881344-FIEf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg'><img width="1935" height="1080" alt="Chatbot_paicodes" src="https://github.com/user-attachments/assets/078815ec-1f34-4100-ab3f-4782fe4dd6fe" />
 ></a>
