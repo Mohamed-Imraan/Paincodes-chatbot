@@ -147,8 +147,8 @@ flowchart LR
 ### 🗃️ Create **.py** file 
 ##### This .py file helps to run program in streamlit
 > #### Methods to create **.py file** 
-> - **JUpier Notebook** - This platform is suitable for Ai related tech stack to run program
-> - **VS code** - Most common used beginner friendly code editor
+> - **Jupiter Notebook** - Best for AI/ML experimentation.
+> - **VS code** - Popular beginner-friendly code editor.
 
 ---
   
